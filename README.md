@@ -33,10 +33,6 @@ A simple and interactive To-Do List application built using **React.js**. This a
    npm start
    ```
 
-## 🖼️ Demo GIF
-
-![Demo](https://res.cloudinary.com/dx7ylrage/image/upload/v1740327026/todo_oln2h0.gif)
-
 ## 🔧 Technologies Used
 
 - **React.js** - Component-based UI development.
