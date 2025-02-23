@@ -30,7 +30,7 @@ A simple and interactive To-Do List application built using **React.js**. This a
 
 3. **Run the project:**
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## 🔧 Technologies Used
